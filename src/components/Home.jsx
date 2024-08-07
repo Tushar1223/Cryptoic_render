@@ -36,7 +36,7 @@ const Home = () => {
         color={"whiteAlpha.700"}
         mt={"-8"}
       >
-        Cryptoic Hero
+        Cryptoic
       </Text> 
     </Box>
   );
